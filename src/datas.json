@@ -1,0 +1,26 @@
+[
+  {
+    "name": "aws-sdk-java",
+    "Description": "The official AWS SDK for Java",
+    "Github_Repo": "https://github.com/aws/aws-sdk-java",
+    "share": "https://github.com/aws/aws-sdk-java",
+    "Service_name": "batch",
+    "Owner": "aws",
+    "Stars": "3,523",
+    "Search_keywords": "aws-batch",
+    "Language": "java",
+    "Popularity": { "Stars": 3523, "Forks": 2621, "Watchers": 3523 },
+    "Stats": { "Commits": 2818, "Contributors": 171, "Open_Issues": 151 },
+    "Last_Updated": "2021-04-23",
+    "Created_At": "2010-03-22",
+    "Advanced_Details": { "Has_Wiki": false, "Language": "java" },
+    "License Name": "apache 2.0 license",
+    "Topics": "java aws amazon aws-sdk",
+    "Owner_Type": "Organization",
+    "Is Fork": false,
+    "Repository Clock": {
+      "Last_Updated": "2021-04-23",
+      "Created_At ": "2010-03-22"
+    }
+  }
+]
