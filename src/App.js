@@ -1,4 +1,3 @@
-import { Box, Button, Card, Modal, Typography } from "@mui/material";
 import { Switch, Route, useHistory } from "react-router-dom";
 import { ContentPage } from "./ContentPage";
 import { PopOver } from "./PopOver";
@@ -7,7 +6,6 @@ import { Filter } from "./Filter";
 import { API } from "./global.js";
 import { useEffect, useState } from "react";
 import { Chart } from "./Chart";
-import AddIcon from "@mui/icons-material/Add";
 import { Sidebar } from "./Sidebar";
 
 export default function App() {

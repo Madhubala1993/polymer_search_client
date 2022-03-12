@@ -111,6 +111,7 @@ export function Home({ repoList, searchTag, setSearchTag }) {
                 setSearch={setSearch}
               />
               <p className="count">Count : {count}</p>
+
               {repoList ? (
                 <div className="aws-cards-list">
                   {body.map((item) => (
